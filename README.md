@@ -1,7 +1,7 @@
 # Space_Battle
 
 ## Game Link
-https://
+(https://louiskok888.github.io/Space_Battle/)
 
 ## Technologies
 1. HTML 5
