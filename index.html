@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Space Invaders</title>
+    <link rel="stylesheet" href="styles.css">
+    <script src="https://code.jquery.com/jquery-3.6.1.min.js" integrity="sha256-o88AwQnZB+VDvE9tvIXrMQaPlFFSUTR+nldQm1LuPXQ=" crossorigin="anonymous"></script>
+</head>
+<body>
+    
+
+    <div class="grid">
+
+    </div>
+    <div class="results">
+        0
+    </div>
+
+    <div class="scores" id="totalScores">
+        <h1 >Total scores : 0</h1>
+    </div>
+    <div class="btns">
+        <button class="button" id="level1" onclick="easy()"><h3>Easy</h3></button>
+        <button class="button" id="level2" onclick="medium()"><h3>Medium</h3></button>
+        <button class="button" id="level3" onclick="hard()" ><h3>Hard</h3></button>
+    </div>
+    
+
+    <div id="start screen" class="screen" style="display:block">
+        <!-- <button class="button" id="startGameBtn" onclick="hide()">Start Game</button> -->
+        <button class="button" id="restart" onclick="reset()">restart</button>
+    </div>
+
+    <script src="app.js"></script>
+</body>
+</html>

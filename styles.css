@@ -1,0 +1,115 @@
+.grid { 
+    width: 600px;
+    height: 600px;
+    border: solid black 1px;
+    display: flex;
+    flex-wrap: wrap;
+    background-image: url(./image/space\ _background_dark_blue.jpg);
+    background-size: cover;
+    position:absolute;
+    right:0px;
+    left:0px;
+    bottom:0px;
+    top:0px;
+    margin: auto;
+    ;
+}
+
+.grid div {
+    width: 20px;
+    height: 20px;
+    
+}
+
+.invader {
+    background-image: url(./image/Alien.png);
+    border-radius: 10px;
+
+    
+}
+
+.shooter {
+    background-image: url(./image/Battle_ship.png);
+}
+
+.laser {
+    background-image: url(./image/Laser_bullet.png);
+}
+
+.boom {
+    background-image: url(./image/Explosion.png);
+}
+
+.scores {
+    color:purple;
+    margin:auto;
+    font-size: 100%;
+    position: absolute;
+    left:430px;
+    top:95px;    
+}
+
+
+.results { 
+    font-size:100%;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:lightgreen;
+    margin:auto;
+    left:900px;
+    top:100px;
+    position: absolute;    
+}
+
+
+/* #startGameBtn {
+    background-image:url(./image/stars-falling.gif) ;
+    width: 180px;
+    height: 80px; 
+    color:white;
+    font-size: 30px;
+    font-style: oblique;
+    position:absolute;
+    right:0px;
+    left:0px;
+    bottom:0px;
+    top:0px;
+    margin: auto;
+    display:hidden;
+} */
+
+#restart {
+    background-color: pink;
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    position:relative;
+    left: 1200px;
+    top: 350px;
+    
+}
+/* #inputText {
+    color:blueviolet;
+    border:5px solid;
+} */
+    
+.btns {
+    margin: auto;
+    position: absolute;
+    left:650px;
+    top:400px;
+    display: flex;
+
+    
+    
+}
+
+#level1 {
+    background-color:yellow;
+}
+#level2 {
+    background-color: orange;
+
+}
+#level3 {
+    background-color: red;
+}
