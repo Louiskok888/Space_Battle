@@ -19,7 +19,7 @@
 - Each eliminated aliens will be given 10 points.
 
 ## Screenshot Picture
-![](image link)
+![](image/Alien.png)
 1. Description
 
 ![]()
