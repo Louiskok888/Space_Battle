@@ -20,7 +20,7 @@
 
 ## Screenshot Picture
 
-![](Game_instruction/Game start page.png)
+![](Game_instruction/Boom.png)
 ### Game start page
 
 1. Description
