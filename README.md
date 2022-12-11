@@ -45,11 +45,4 @@
 ![](Game_instruction/Game_over.png)
 
 
-1. Description
 
-![]()
-1. De
-
-## Additional features were under Considerations
--
--
