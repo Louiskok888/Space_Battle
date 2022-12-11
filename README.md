@@ -19,7 +19,9 @@
 - Each eliminated aliens will be given 10 points.
 
 ## Screenshot Picture
-![](image/Alien.png)
+
+![](image/Game start page.png)
+### Game start page
 1. Description
 
 ![]()
