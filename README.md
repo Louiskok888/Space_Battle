@@ -20,7 +20,7 @@
 
 ## Screenshot Picture
 
-![](image/Game start page.png)
+![](Game instruction/Game start page.png)
 ### Game start page
 1. Description
 
