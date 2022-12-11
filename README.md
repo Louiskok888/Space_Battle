@@ -20,8 +20,30 @@
 
 ## Screenshot Picture
 
-![](Game_instruction/Boom.png)
-### Game start page
+###  🛸 Game start page
+
+![](Game_instruction/Game_start_page.png)
+
+### 🛸 Easy level
+
+![](Game_instruction/Easy_level.png)
+
+### 🛸 Medium level
+
+![](Game_instruction/Medium_level.png)
+
+### 🛸 Hard level
+
+![](Game_instruction/Hard_level.png)
+
+### 🛸 Space ship shooting
+
+![](Game_instruction/Space_ship_shooting .png)
+
+### 🛸 Game over page
+
+![](Game_instruction/Game_over.png)
+
 
 1. Description
 
