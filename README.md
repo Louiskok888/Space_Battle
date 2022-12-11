@@ -38,7 +38,7 @@
 
 ### 🛸 Space ship shooting
 
-![](Game_instruction/Space_ship_shooting .png)
+![](Game_instruction/Space_ship_shooting.png)
 
 ### 🛸 Game over page
 
