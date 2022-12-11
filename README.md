@@ -14,7 +14,9 @@
 - Press one of the button to activate the game in different levels.
 - Easy level will deploy two lines of aliens with normal speed.
 - Medium level will deploy three lines of aliens with faster speed.
-- Hard level will deplo
+- Hard level will deploy three lines of aliens with faster speed than medium level.
+- Player need to eliminate all the aliens by shooting them.
+- Each eliminated aliens will be given 10 points.
 
 ## Screenshot Picture
 ![](image link)
